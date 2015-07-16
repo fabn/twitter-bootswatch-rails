@@ -26,7 +26,6 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'execjs'
 
   s.add_development_dependency 'rails', '>= 3.1'
-  s.add_development_dependency 'rails', '>= 3.1'
   s.add_development_dependency 'less'
   s.add_development_dependency 'therubyracer', '>= 0.10.2'
 
